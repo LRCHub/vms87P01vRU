@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "ファンファーレ",
+  "base_artist": "sumika",
+  "createdAt": "2025-12-04T05:38:48.167025Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ファンファーレ - From THE FIRST TAKE",
+      "artist": "sumika",
+      "has_synced": false,
+      "path": "select/01_ファンファーレ_-_From_THE_FIRST_TAKE_sumika.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Say!ファンファーレ!",
+      "artist": "白上フブキ",
+      "has_synced": true,
+      "path": "select/02_Say!ファンファーレ!_白上フブキ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ファンファーレ",
+      "artist": "sumika",
+      "has_synced": true,
+      "path": "select/03_ファンファーレ_sumika.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Say!ファンファーレ!",
+      "artist": "Fubuki Shirakami",
+      "has_synced": true,
+      "path": "select/04_Say!ファンファーレ!_Fubuki_Shirakami.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ファンファーレ",
+      "artist": "GReeeeN",
+      "has_synced": true,
+      "path": "select/05_ファンファーレ_GReeeeN.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ファンファーレ",
+      "artist": "Harunemuri",
+      "has_synced": true,
+      "path": "select/06_ファンファーレ_Harunemuri.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Fanfare [ファンファーレ]",
+      "artist": "Haru Nemuri",
+      "has_synced": true,
+      "path": "select/07_Fanfare_[ファンファーレ]_Haru_Nemuri.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ツヨガリ・ファンファーレ",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/08_ツヨガリ・ファンファーレ_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ファンファーレ",
+      "artist": "HARU NEMURI",
+      "has_synced": true,
+      "path": "select/09_ファンファーレ_HARU_NEMURI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ファンファーレ",
+      "artist": "sumika",
+      "has_synced": false,
+      "path": "select/pl_01_ファンファーレ_sumika.txt"
+    }
+  ]
+}
